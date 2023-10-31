@@ -2,7 +2,7 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Md. Moniruzzaman
 
-# $$\textcolor{yellow}{\text{Working in HealthOS Limited as a Front End React Developer}}$$
+# <p style='color:green'>Working in HealthOS Limited as a Front End React Developer!</p>
 
 ## Web Developer
 
@@ -125,3 +125,5 @@ I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clea
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MoniruzzamanBappy)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MoniruzzamanBappy&langs_count=5&theme=tokyonight)]()
+
+[![](https://visitcount.itsvg.in/api?id=moniruzzaman-hos&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
